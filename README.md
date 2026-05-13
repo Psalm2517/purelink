@@ -1,8 +1,10 @@
 # Purelink Discord Bot
-Purelink is a bot designed to detect, unwrap, and clean tracking links, extracting destination URLs from affiliate redirect chains.
+**Purelink is a bot designed to detect, unwrap, and clean tracking links, extracting destination URLs from affiliate redirect chains.**
 
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+
+---
 
 ## Key Features
 - **3,500+ Tracking Domains**: Integrated blocklist for unwrapping and sanitizing ad, affiliate, and tracking domains.
