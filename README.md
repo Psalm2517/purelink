@@ -3,6 +3,9 @@
 	<b>Link purification for Discord.</b>
 </p>
 
+![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+
 Purelink is a bot designed to detect, unwrap, and clean tracking links, extracting destination URLs from affiliate redirect chains.
 
 ## Key Features
